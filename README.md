@@ -1,35 +1,6 @@
 ## Welcome to My Page
 
-I am Yasaman. I created this page to share my research ideas and findings with everyone.
+I am Yasaman. I am a decision scientist. I got my PhD in Management Science from the Information Technology and Decision Sciences department at University of North Texas. I am passionate to explore people’s attitudes towards using cutting-edge technologies in their daily life and help companies to understand better their potential customers. My PhD dissertation was about investigating people’s motives to use a specific transportation mode, such as ridesharing or self-driving vehicles. I developed a survey specifically for people’s expectations of self-driving vehicle features! 
+I created this page to share my research ideas and findings with everyone.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yasikiaee/decision.science/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
